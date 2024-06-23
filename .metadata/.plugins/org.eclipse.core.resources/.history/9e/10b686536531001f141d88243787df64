@@ -1,0 +1,10 @@
+package variaveis;
+
+public class PontoFlutuante {
+	public static void main(String[] args) {
+		double hora = 15:30;
+		System.out.println("Agora são exatamente" + hora);
+	}
+	
+
+}
